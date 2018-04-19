@@ -1,7 +1,2 @@
 notifications:
   email: false
-
-language: python
-python: 3.6
-script:
-echo "PACANY VOOBSHE REBYATA"
