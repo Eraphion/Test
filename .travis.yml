@@ -3,6 +3,7 @@ email: false
 language: python
 python: 3.6
 
+
 script:
 - errors=`find . -name "*.py" -exec flake8 --max-line-length=120 \;`
 - |
